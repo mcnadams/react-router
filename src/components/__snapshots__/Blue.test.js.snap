@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Blue Blue 1`] = `
+<div
+  style={
+    Object {
+      "background": "blue",
+      "height": "250px",
+      "width": "250px",
+    }
+  }
+/>
+`;
