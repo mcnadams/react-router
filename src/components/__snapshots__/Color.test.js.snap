@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Color Color 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "pink",
+      "height": "250px",
+      "width": "250px",
+    }
+  }
+/>
+`;

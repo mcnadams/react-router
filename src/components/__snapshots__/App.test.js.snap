@@ -16,6 +16,10 @@ exports[`App App 1`] = `
       component={[Function]}
       path="/yellow"
     />
+    <Route
+      component={[Function]}
+      path="/:color"
+    />
   </Switch>
 </BrowserRouter>
 `;
